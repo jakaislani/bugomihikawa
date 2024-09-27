@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://bugomihikawa.netlify.app/sitemap.xml
